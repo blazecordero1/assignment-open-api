@@ -6,7 +6,6 @@ This project demonstrates integration of the Open-Meteo API into a NestJS backen
 ## Features
 - Fetch real-time weather data from Open-Meteo.
 - Structured NestJS service and controller.
-- Error handling for API requests.
 - REST API endpoints for fetching weather forecasts.
 
 ## Technologies Used
@@ -20,7 +19,7 @@ This project demonstrates integration of the Open-Meteo API into a NestJS backen
 ## Setup Instructions
 
 ### Prerequisites
-- Node.js (v16+ recommended)
+- Node.js
 - npm or yarn
 
 ### Installation
@@ -84,15 +83,4 @@ GET http://localhost:3000/weather?lat=14.5995&lon=120.9842
 
 ```
 
-Include **screenshots** of successful requests in the repository.
 
----
-
-## Submission Guidelines
-- Push all code to the GitHub repository.
-- Ensure branches are properly merged.
-- Submit the repository link along with API documentation.
-
-
-# assignment-open-api
-# assignment-open-api
