@@ -55,6 +55,7 @@ Fetch hourly temperature data for a given location.
   - `lat` (number) - Latitude
   - `lon` (number) - Longitude
 - **Example Request:**
+- PH GEO LOC
   ```sh
   curl "http://localhost:3000/weather?lat=14.5995&lon=120.9842"
   ```
